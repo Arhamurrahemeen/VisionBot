@@ -31,6 +31,7 @@
 - [Cloudinary Setup](#cloudinary-setup)  
 - [Frontend Layout](#frontend-layout)  
 - [VisionBot Mobile App](#VisionBot-Mobile-App)  
+- [Contact & Services](#Contact-&-Services)
 
 ---
 
@@ -167,4 +168,15 @@ We also developed a companion Android application to make controlling the displa
 - **Instant Sync:** Clicking "Update" in the app sends a request to the backend, updating MongoDB and the display screen instantly.
 - **No Coding Required:** Allows non-technical users to change the display content without touching the code or database.
 
+---
+
+## 📞 Contact & Services
+
+I provide **paid and unpaid** services for hardware, IoT, and full-stack development projects. If you need help with a similar build or have a custom idea, feel free to reach out!
+
+- **LinkedIn:** [Muhammad Arham](https://www.linkedin.com/in/muhammad-arham-a20a09299/)
+- **Instagram:** [@arham_urrahemeen](https://www.instagram.com/arham_urrahemeen?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- **Email:** [arhamurrahemeen@gmail.com](mailto:arhamurrahemeen@gmail.com)
+
+🌟 **If you found this project helpful, please give it a star on GitHub!**
 
