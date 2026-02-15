@@ -1,8 +1,9 @@
-# VisionBot – Dynamic 4-Block Display for Raspberry Pi
+# VisionSync – Dynamic 4-Block Display for Raspberry Pi
 
 ![VisionBot](https://res.cloudinary.com/dprfncmie/image/upload/v1765616999/raspberry_relgps.png)
 
-**VisionBot** is a Raspberry Pi-powered dynamic display system that shows 4 images on a 7-inch screen (or monitor) in a **2×2 grid layout**. Each image is fetched in real-time from a **MongoDB database**, and images are stored and served from **Cloudinary**, allowing you to update the display instantly without touching the Pi.
+**VisionSync** is a Raspberry Pi-powered dynamic display system that shows 4 images on a 7-inch screen (or monitor) in a 2×2 grid layout. Each image is fetched in real-time from a MongoDB database, and images are stored and served from Cloudinary, allowing you to update the display instantly without touching the Pi.
+
 
 ---
 
@@ -182,7 +183,8 @@ Each `<img>` element auto-updates every **5 seconds** from MongoDB data.
 
 ---
 
-# 📱 VisionBot Mobile App (Controller)
+# 📱 VisionSync Mobile App (Controller)
+
 
 We also developed a companion Android application to make controlling the display effortless.
 
@@ -215,3 +217,10 @@ Feel free to connect:
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
 
+---
+
+If you want, I can now:
+
+* Make a **minimal elite GitHub-style README version**
+* Or make a **portfolio showcase version**
+* Or optimize it to look investor/startup level** 🚀
